@@ -1,2 +1,0 @@
-# BigMan
-Mainly uhh discord
